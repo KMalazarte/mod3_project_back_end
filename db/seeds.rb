@@ -33,7 +33,7 @@ Exercise.create(name: 'Leg Extension', description:'Using a low weight slowly ki
 
 Exercise.create(name: 'Walking Lunges', description:'Extend one leg out further than a normal walking step. The forward leg should be at a 90 degree angle and the bottom and the back leg knee just about at the floor. ', body_group_id: 5, videoURL: 'https://www.youtube.com/embed/D7KaRcUTQeE', likes: 0, dislikes: 0)
 
-Exercise.create(name: 'Dead Lift', description:'With a narrow stance put hands right outside of your body. Knees should be next to the inside of your elbows at the bottom. Pull the bar off the floor while keeping your back straight. Bar should be touching your body thoughout the movement. Squeeze glutes and lats at the top of the lift. ', body_group_id: 6, videoURL: 'https://www.youtube.com/embed/D7KaRcUTQeE', likes: 0, dislikes: 0)
+Exercise.create(name: 'Dead Lift', description:'With a narrow stance put hands right outside of your body. Knees should be next to the inside of your elbows at the bottom. Pull the bar off the floor while keeping your back straight. Bar should be touching your body thoughout the movement. Squeeze glutes and lats at the top of the lift. ', body_group_id: 6, videoURL: 'https://www.youtube.com/embed/ytGaGIn3SjE', likes: 0, dislikes: 0)
 
 Exercise.create(name: 'Leg Curls', description:'Laying in a downward position pull the weight towards your glutes. Make sure to keep your hips glued to the bench. Squeeze at the top and slowly lower back to starting position', body_group_id: 6, videoURL: 'https://www.youtube.com/embed/1Tq3QdYUuHs', likes: 0, dislikes: 0)
 
