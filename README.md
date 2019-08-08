@@ -1,24 +1,6 @@
-# README
+Click on "See Exercises" underneath which ever muscle group you would like to see exercises for. Read the description beneath the exercise name to see a brief instruction on how to perform the exercise. 
+Click on video tutorial under the exercise you want to see more about. 
+If you like the exercise you can click on the Muscle emoji
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Back end : https://github.com/KMalazarte/mod3_project_front_end
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
